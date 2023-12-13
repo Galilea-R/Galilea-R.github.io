@@ -63,17 +63,14 @@ author:
   bio    : "Data science student"
   links:
     - label: "Website"
-      icon: "https://github.com/Galilea-R"
-      url: "https://"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/Galilea-R"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/galiresendis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Galilea-R"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
@@ -83,9 +80,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Galilea-R"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
