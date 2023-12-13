@@ -34,4 +34,4 @@ LIF.FIRING_THRESHOLD = -40*mV
 plot_tools.plot_voltage_and_current_traces(state_monitor, step_current, title="min input", firing_threshold=LIF.FIRING_THRESHOLD)
 print("nr of spikes: {}".format(spike_monitor.count[0]))  # should be 0
 {% endraw %}
-
+```
