@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Galilea Resendis González"
-  avatar : "/assets/images/foto.jpg"
+  avatar : "/assets/images/foto.JPG"
   bio    : "Data science student"
   links:
     - label: "Website"
