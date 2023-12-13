@@ -13,7 +13,7 @@ membrane_time_scale, membrane_resistance, firing_threshold, abs_refractory_perio
 This project was part of my coursework in Brain Theory and has been my favorite. For a long time, I aspired to study neuroscience, so I enjoy combining data science with topics related to the brain.
 
 
-def run_LIF_simulation(i_min_value):
+```ruby
     # create a step current with amplitude=i_min
     step_current = input_factory.get_step_current(t_start=5, t_end=100, unit_time=ms, amplitude=i_min_value)
 
@@ -35,3 +35,4 @@ def run_LIF_simulation(i_min_value):
 
 # Call the function with the specified value for i_min
 run_LIF_simulation(i_min_value=3.0 * namp)
+```
