@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
+My name is Galilea Resendis Gonzalez, and I am studying Data Science at ITAM. Throughout my academic journey I have acquired proficiency in several programming languages, such as Python and Java. I have also taken classes where I have learned how to use SQL, MongoDB, among others.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Additionally, I have a keen interest in playing the guitar, reading, and learning new languages.
