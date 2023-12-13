@@ -11,6 +11,8 @@ One of my main achievements in my academic journey has been using Neurodynex to 
 membrane_time_scale, membrane_resistance, firing_threshold, abs_refractory_period, v_rest, v_reset
 
 This project was part of my coursework in Brain Theory and has been my favorite. For a long time, I aspired to study neuroscience, so I enjoy combining data science with topics related to the brain.
+```Javascript 
+
 i_min=3.0*namp
 
 # create a step current with amplitude= i_min
@@ -30,3 +32,5 @@ LIF.FIRING_THRESHOLD = -40*mV
 # plot I and vm
 plot_tools.plot_voltage_and_current_traces(state_monitor, step_current, title="min input", firing_threshold=LIF.FIRING_THRESHOLD)
 print("nr of spikes: {}".format(spike_monitor.count[0]))  # should be 0
+```
+
