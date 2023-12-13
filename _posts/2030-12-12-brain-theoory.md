@@ -7,8 +7,7 @@ tags:
   - data science 
 ---
 
-> One of my main achievements in my academic journey has been using Neurodynex to comprehend how changes in the following variables impact the behavior of the simulated neuron:
-> 
+One of my main achievements in my academic journey has been using Neurodynex to comprehend how changes in the following variables impact the behavior of the simulated neuron:
 membrane_time_scale
 membrane_resistance
 firing_threshold
