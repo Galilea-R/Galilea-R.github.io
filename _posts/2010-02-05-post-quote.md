@@ -1,10 +1,10 @@
 ---
-title: "Post: Quote"
+title: "Brain Theory"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - quote
+  - brain
+  - data science 
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.
