@@ -8,7 +8,7 @@ tags:
 ---
 
 One of my main achievements in my academic journey has been using Neurodynex to comprehend how changes in the following variables impact the behavior of the simulated neuron:
-membrane_time_scale, membrane_resistance, firing_threshold, abs_refractory_period, v_rest, v_reset
+membrane_time_scale, membrane_resistance, firing_threshold, abs_refractory_period, and v_rest
 
 This project was part of my coursework in Brain Theory and has been my favorite. For a long time, I aspired to study neuroscience, so I enjoy combining data science with topics related to the brain.
 
@@ -35,3 +35,4 @@ plot_tools.plot_voltage_and_current_traces(state_monitor, step_current, title="m
 print("nr of spikes: {}".format(spike_monitor.count[0]))  # should be 0
 {% endraw %}
 ```
+One of the conclusions we were able to observe when playing with the parameters is that, by adjusting the membrane resistance, the number of spikes increases significantly. This suggests that, experimentally, membrane resistance is what affects the number of spikes in this model, confirming what we had already seen in class.
